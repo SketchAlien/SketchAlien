@@ -17,3 +17,7 @@
 ## How to Reach Me
 - Email: hit316@gmail.com
 - LinkedIn:https://www.linkedin.com/in/benny-njuguna-2714a885?trk=contact-info
+
+## Setup
+- user.name=SketchAlien
+- user.email=hit316@gmail.com 
