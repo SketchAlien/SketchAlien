@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm SketchAlien
 
-<!--
-**SketchAlien/SketchAlien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Full-Stack Web Development at We Can Academy (Season 12).
+- I'm interested in web development and building useful projects.
+- I'm looking to collaborate on beginner-friendly projects with my coursemates.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML and CSS
+- JavaScript
+- Building and deploying web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Week 0 setup — Learning Git, GitHub, and setting up my developer environment.
+
+## How to Reach Me
+- Email: hit316@gmail.com
+- LinkedIn:https://www.linkedin.com/in/benny-njuguna-2714a885?trk=contact-info
