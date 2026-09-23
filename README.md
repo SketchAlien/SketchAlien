@@ -21,3 +21,8 @@
 ## Setup
 - user.name=SketchAlien
 - user.email=hit316@gmail.com 
+
+## Links
+
+- My live site:https://sketchalien.github.io
+- My GitHub profile:https://github.com/SketchAlien
