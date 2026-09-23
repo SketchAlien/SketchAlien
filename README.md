@@ -1,67 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SketchAlien</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 50px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1 {
-      border-bottom: 2px solid #0366d6;
-      padding-bottom: 10px;
-    }
-    h2 {
-      color: #0366d6;
-      margin-top: 30px;
-    }
-    a { color: #0366d6; }
-    ul { padding-left: 20px; }
-    .section { margin-bottom: 30px; }
-  </style>
-</head>
-<body>
-  <h1>Welcome! I'm SketchAlien</h1>
+# Hi, I'm SketchAlien
 
-  <div class="section">
-    <h2>About Me</h2>
-    <p>I'm a student currently learning Full-Stack Web Development at We Can Academy, Season 12. I'm interested in building useful web projects and understanding how the web works from the ground up.</p>
-  </div>
+## About Me
+- I'm currently learning Full-Stack Web Development at We Can Academy (Season 12).
+- I'm interested in web development and building useful projects.
+- I'm looking to collaborate on beginner-friendly projects with my coursemates.
 
-  <div class="section">
-    <h2>What I'm Learning</h2>
-    <ul>
-      <li>Git and GitHub — version control and collaboration</li>
-      <li>HTML and CSS — building and styling web pages</li>
-      <li>JavaScript — adding interactivity</li>
-      <li>Node.js — backend development (coming in Week 7)</li>
-    </ul>
-  </div>
+## Skills I'm Building
+- Git and GitHub
+- HTML and CSS
+- JavaScript
 
-  <div class="section">
-    <h2>What I've Learned So Far</h2>
-    <ul>
-      <li>The difference between Git and GitHub</li>
-      <li>How to create a GitHub profile page</li>
-      <li>How to create a repository and commit changes</li>
-      <li>How to edit a README file</li>
-      <li>How to create a live website as a starter</li>
-    </ul>
-  </div>
+## Current Projects
+- Week 0 setup — Learning Git, GitHub, and setting up my developer environment.
 
-  <div class="section">
-    <h2>Links</h2>
-    <ul>
-      <li><a href="https://github.com/SketchAlien">My GitHub Profile</a></li>
-      <li><a href="https://github.com/SketchAlien/SketchAlien">My Profile README</a></li>
-      <li><a href="https://sketchalien.github.io">My Live Site</a> (you're here!)</li>
-    </ul>
-  </div>
-</body>
-</html>
+## How to Reach Me
+- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/your-profile
+
+## Setup
+
+- user.name=SketchAlien
+- user.email=your-email@example.com
+
+## Links
+
+- [My live site](https://sketchalien.github.io)
+- [My GitHub profile](https://github.com/SketchAlien)
