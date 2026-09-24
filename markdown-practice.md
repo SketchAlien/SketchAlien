@@ -31,7 +31,11 @@ How do I locate `index.html` on **GitHub**, through my username *SketchAlien*?
 
 ## Exercise 5 — Table
 
-*(To be completed on laptop)*
+| Tool | Purpose | Link |
+|------|---------|------|
+| Git | Version control | https://git-scm.com |
+| GitHub | Hosting repositories | https://github.com |
+| VS Code | Writing code | https://code.visualstudio.com |
 
 ## Exercise 6 — Task List
 
