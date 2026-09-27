@@ -11,18 +11,26 @@
 - JavaScript
 
 ## Current Projects
-- Week 0 setup — Learning Git, GitHub, and setting up my developer environment.
+- Learning Git & GitHub
+- Setting up my developer environment
 
 ## How to Reach Me
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email:hit316@gmail.com .com
+- LinkedIn:https://www.linkedin.com/in/benny-njuguna-2714a885
 
 ## Setup
 
 - user.name=SketchAlien
-- user.email=your-email@example.com
+- user.email=hit316@gmail.com
 
 ## Links
 
-- [My live site](https://sketchalien.github.io)
+## Week 0 Tasks
+
+- [GitHub Pages site](https://sketchalien.github.io)
+- [Markdown practice](markdown-practice.md)
+
+## Where to Find Me
+
 - [My GitHub profile](https://github.com/SketchAlien)
+- [My live site](https://sketchalien.github.io)
