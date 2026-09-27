@@ -3,7 +3,6 @@
 ## About Me
 - I'm currently learning Full-Stack Web Development at We Can Academy (Season 12).
 - I'm interested in web development and building useful projects.
-- I'm looking to collaborate on beginner-friendly projects with my coursemates.
 
 ## Skills I'm Building
 - Git and GitHub
@@ -11,8 +10,7 @@
 - JavaScript
 
 ## Current Projects
-- Learning Git & GitHub
-- Setting up my developer environment
+- Learning Git & GitHub (https://docs.github.com/en/get-started/start-your-journey/what-is-github) 
 
 ## How to Reach Me
 - Email:hit316@gmail.com .com
@@ -27,8 +25,8 @@
 
 ## Week 0 Tasks
 
-- [GitHub Pages site](https://sketchalien.github.io)
-- [Markdown Practice](markdown-practice.md)
+- GitHub Pages site(https://sketchalien.github.io)
+- Markdown Practice(markdown-practice.md)
 
 ## Where to Find Me
 
