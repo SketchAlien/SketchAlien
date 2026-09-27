@@ -28,9 +28,9 @@
 ## Week 0 Tasks
 
 - [GitHub Pages site](https://sketchalien.github.io)
-- [Markdown practice](markdown-practice.md)
+- [Markdown Practice](markdown-practice.md)
 
 ## Where to Find Me
 
-- [My GitHub profile](https://github.com/SketchAlien)
-- [My live site](https://sketchalien.github.io)
+- [My GitHub Profile](https://github.com/SketchAlien)
+- [My Live Site](https://sketchalien.github.io)
