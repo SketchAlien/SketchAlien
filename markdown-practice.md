@@ -1,5 +1,3 @@
-# Markdown Practice
-
 ## Exercise 1 — Headings
 
 ### My Learning Goals
@@ -8,7 +6,7 @@
 
 ## Exercise 2 — Text Formatting
 
-How do I locate `index.html` on **GitHub**, through my username *SketchAlien*?
+What is the difference between **README Profile** and `index.html` and should they be connected through my username *SketchAlien*?
 
 ## Exercise 3 — Links
 
@@ -29,7 +27,7 @@ How do I locate `index.html` on **GitHub**, through my username *SketchAlien*?
 2. Commit with a message using `git commit`
 3. Push to GitHub with `git push`
 
-## Exercise 5 — Table
+## Exercise 5 — Table 
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -40,8 +38,10 @@ How do I locate `index.html` on **GitHub**, through my username *SketchAlien*?
 ## Exercise 6 — Task List
 
 - [x] Using Git and GitHub
-- [x] Learn HTML and CSS
+- [x] Learn HTML
+- [ ] Learn CSS
 - [x] Build a functional website
+- [x] Using Visual Studio Code
 - [ ] Learn JavaScript
 
 ## Exercise 7 — Code Block
@@ -56,11 +56,15 @@ print("Hello, world!")
 
 ## About Me
 
-Hi. My name is **SketchAlien**. That's my username at GitHub.
+Hi. My name is **SketchAlien**. 
 
-I have always wanted to enrol in programming but postponed, figuring how difficult it was. But when I chanced at *We Can Academy* 3-month program, I knew this was an opportunity I'd take hold of.
+I am new into programming.  
 
-> If you put your mind to accomplish something, you'll indeed achieve it.
+I'm excited to have enrolled at *We Can Academy* three-month course. 
+
+In the beginning, it appeared difficult to grasp terms used, and the html stuff was something. 
+
+But I've learnt in life > If you put your mind to accomplish something, you'll indeed achieve it.
 
 I hope to learn how to:
 
@@ -71,9 +75,9 @@ I hope to learn how to:
 I have learned several things so far:
 
 - [x] What Git and GitHub are
-- [x] A clear insight into what HTML is, and concepts such as tags
-- [x] How to create a README, edit it, commit, what to input on commit message, pull, and push
+- [x] A clear insight into what HTML is, and concepts such as tags, elements, attributes
+- [x] How to create a README, edit it, commit (and what to input on commit message), pull, and push
 
-These are just some of the things I have learned. And I have learned the importance of collaboration when it comes to coding.
+The above are just some of the things I have leant.
 
-Hope you'll browse around my site though it isn't yet fully developed. And this certainly works in coding, I think 🥶
+Currently, my site isn't fully developed as I'm still learning the ropes of how to build a full-fledged site. 
