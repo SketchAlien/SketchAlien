@@ -1,4 +1,4 @@
-# Hi, I'm SketchAlien
+We# Hi, I'm SketchAlien
 
 ## About Me
 - I'm currently learning Full-Stack Web Development at We Can Academy (Season 12).
@@ -13,8 +13,10 @@
 - Learning Git & GitHub (https://docs.github.com/en/get-started/start-your-journey/what-is-github) 
 
 ## How to Reach Me
-- [Email]:(hit316@gmail.com) 
-- [LinkedIn] :(https://www.linkedin.com/in/benny-njuguna-2714a885) 
+## How to Reach Me
+
+- Email: [hit316@gmail.com](mailto:hit316@gmail.com)
+- LinkedIn: [Benny Njuguna](https://www.linkedin.com/in/benny-njuguna-2714a885)
 
 ## Setup
 
