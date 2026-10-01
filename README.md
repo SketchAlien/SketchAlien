@@ -13,7 +13,7 @@
 - Learning Git & GitHub (https://docs.github.com/en/get-started/start-your-journey/what-is-github) 
 
 ## How to Reach Me
-- [Email]:hit316@gmail.com
+- [Email]:(hit316@gmail.com) 
 - [LinkedIn] :(https://www.linkedin.com/in/benny-njuguna-2714a885) 
 
 ## Setup
