@@ -13,8 +13,8 @@
 - Learning Git & GitHub (https://docs.github.com/en/get-started/start-your-journey/what-is-github) 
 
 ## How to Reach Me
-- Email:hit316@gmail.com .com
-- LinkedIn:https://www.linkedin.com/in/benny-njuguna-2714a885
+- [Email]:hit316@gmail.com
+- [LinkedIn] :(https://www.linkedin.com/in/benny-njuguna-2714a885) 
 
 ## Setup
 
@@ -25,8 +25,8 @@
 
 ### Week 0 Tasks
 
-- GitHub Pages site(https://sketchalien.github.io)
-- Markdown practice](https://github.com/SketchAlien/SketchAlien/blob/main/markdown-practice.md)
+- [GitHub Pages site] (https://sketchalien.github.io)
+- [Markdown practice](markdown-practice.md)
 
 ## Where to Find Me
 
