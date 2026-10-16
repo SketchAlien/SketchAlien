@@ -1,8 +1,9 @@
-We# Hi, I'm SketchAlien
+# Hi, I'm SketchAlien
 
 ## About Me
+- I'm a content writer, writing articles and other forms of writings. 
 - I'm currently learning Full-Stack Web Development at We Can Academy (Season 12).
-- I'm interested in web development and building useful projects.
+
 
 ## Skills I'm Building
 - Git and GitHub
@@ -10,9 +11,10 @@ We# Hi, I'm SketchAlien
 - JavaScript
 
 ## Current Projects
-- Learning Git & GitHub (https://docs.github.com/en/get-started/start-your-journey/what-is-github) 
+-Learning Git & GitHub
+-Learning Html & CSS
+-Learning Javascript 
 
-## How to Reach Me
 ## How to Reach Me
 
 - Email: [hit316@gmail.com](mailto:hit316@gmail.com)
