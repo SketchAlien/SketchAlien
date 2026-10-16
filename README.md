@@ -11,9 +11,7 @@
 - JavaScript
 
 ## Current Projects
--Learning Git & GitHub
--Learning Html & CSS
--Learning Javascript 
+-Leaning programming 
 
 ## How to Reach Me
 
