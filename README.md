@@ -11,7 +11,7 @@
 - JavaScript
 
 ## Current Projects
--Leaning programming 
+- Leaning programming 
 
 ## How to Reach Me
 
