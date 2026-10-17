@@ -57,11 +57,12 @@ print("Hello, world!")
 
 Hi. My name is **SketchAlien**.   
 
-I enrolled at *We Can Academy* for three-month programming course. 
+I enrolled at *We Can Academy* for three-month crash programming course.
 
-The first weeks were pretty confusing on using html and CSS, but I'm getting better on how to use them.
+I hope to complement my writing life with my long-term interest in computers, programming. 
 
-I have learnt in life > If you put your mind to accomplish something, you'll indeed achieve it.
+I have learnt in life:
+> If you put your mind to accomplish something, you'll indeed achieve it.
 
 I hope to learn how to:
 
